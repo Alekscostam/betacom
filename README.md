@@ -8,7 +8,7 @@ This is a Spring Boot-based REST API application that supports user registration
 Before running the application, make sure you have the following installed:
 
 - **Java:** 17 or later  
-- **Database:** MySQL (or adjust for another DB as needed)
+- **Database:** MySQL 
 - **Server PORT** 8080
 
 ## 🗄️ Database Setup
