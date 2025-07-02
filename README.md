@@ -9,13 +9,14 @@ Before running the application, make sure you have the following installed:
 
 - **Java:** 17 or later  
 - **Database:** MySQL (or adjust for another DB as needed)
+- **Server PORT** 8080
 
 ## 🗄️ Database Setup
 
 The application expects a MySQL database with the following details:
 
 - **Host:** `localhost`  
-- **Port:** `8080`  
+- **Port:** `3306`  
 - **Database name:** `betacom`  
 - **Username:** `betacom`  
 - **Password:** `123`
